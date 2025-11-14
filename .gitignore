@@ -42,3 +42,5 @@ discovered_paths.txt
 working_proxies.txt
 
 src/config/index.js
+
+all_proxies.txt
